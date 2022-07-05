@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".History_1">
+
+    <TextView
+        android:id="@+id/textView39"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="16$"
+        tools:layout_editor_absoluteX="352dp"
+        tools:layout_editor_absoluteY="137dp" />
+
+    <TextView
+        android:id="@+id/textView40"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="27$"
+        tools:layout_editor_absoluteX="352dp"
+        tools:layout_editor_absoluteY="156dp" />
+
+    <TextView
+        android:id="@+id/textView41"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="32$"
+        tools:layout_editor_absoluteX="352dp"
+        tools:layout_editor_absoluteY="175dp" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="435dp"
+        android:layout_height="141dp"
+        app:srcCompat="@drawable/img_7"
+        tools:layout_editor_absoluteX="-2dp"
+        tools:layout_editor_absoluteY="-15dp" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kia Rio 15min"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="137dp" />
+
+    <TextView
+        android:id="@+id/textView37"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kia Rio 46min"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="175dp" />
+
+    <TextView
+        android:id="@+id/textView38"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kia Rio 32min"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="156dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
