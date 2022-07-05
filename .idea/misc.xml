@@ -4,9 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/User/AndroidStudioProjects/13Practice/app/src/main/res/layout/activity_history.xml" value="0.5" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/13Practice/app/src/main/res/layout/activity_history1.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/13Practice/app/src/main/res/layout/activity_history1.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/13Practice/app/src/main/res/layout/activity_main.xml" value="0.21240942028985507" />
         <entry key="..\:/Users/User/AndroidStudioProjects/13Practice/app/src/main/res/layout/activity_menu.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/13Practice/app/src/main/res/layout/activity_setting.xml" value="0.38333333333333336" />
         <entry key="..\:/Users/User/AndroidStudioProjects/13Practice/app/src/main/res/layout/activity_sign_in.xml" value="0.5" />
         <entry key="..\:/Users/User/AndroidStudioProjects/13Practice/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
       </map>
